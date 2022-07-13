@@ -1,0 +1,15 @@
+.container {
+  background-color: lightblue;
+  padding: 60px;
+  margin: 40px;
+  border: 5px solid darkblue;
+  display: flex;
+  justify-content: center;
+}
+
+.choice {
+  margin: 20px;
+  padding: 20px;
+  font-size: 15px;
+  color: black;
+}
